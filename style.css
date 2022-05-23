@@ -1,6 +1,12 @@
 body{
     background-color: azure;
 }
+#git{
+    position: absolute;
+    width: 50px;
+    left: 0px;
+    top:120px
+}
 #linked{
     position: absolute;
     width: 50px;
